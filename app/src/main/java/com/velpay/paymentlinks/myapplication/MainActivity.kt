@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //primer cambio desde la rama 1
+        //segundo cambio desde la rama 2
     }
 }
